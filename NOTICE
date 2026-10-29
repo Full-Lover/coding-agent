@@ -1,0 +1,9 @@
+Coding Agent
+
+This project contains the chapter5/coding-agent example from ai-agent-book.
+Original project: https://github.com/bojieli/ai-agent-book
+Source commit: 38be842e98d4ae250cb51d5e072ae0f3c0dcb41c
+Copyright 2025 Bojie Li and the original contributors.
+Licensed under the Apache License, Version 2.0; see LICENSE.
+
+This standalone copy adds .gitignore, LICENSE and this NOTICE for distribution.
